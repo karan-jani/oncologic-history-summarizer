@@ -70,7 +70,7 @@ def main() -> None:
         "response_format": OncSummaryList,
     }
     if args.gpt41:
-        lm_kwargs["temperature"] = 0.2
+        lm_kwargs["temperature"] = 0.1
     lm = dspy.LM(**lm_kwargs)
 
     with dspy.context(lm=lm):
