@@ -68,4 +68,4 @@ The bundled examples/ directory contains synthetic data with the appropriate str
 - The CLI expects your Azure credentials to be present in `.env`.
 - The main workflow is file-based: input JSON in, structured summary JSON out.
 - The DSPy signature is the same for all runs. The CLI always wraps the generated list into the same `structured_summary.onc_summary` output shape.
-- `--gpt41` does not change the parser or schema. It only applies `temperature=0.2`, which was the tested setting for Azure GPT-4.1 deployments. This does not apply to reasoning models (GPT-5, etc.), which have a fixed temperature of 1.0. 
+- `--gpt41` does not change the parser or schema. It only applies `temperature=0.1`, which was the tested setting for Azure GPT-4o-mini variant deployments. This does not apply to reasoning models (GPT-5, etc.), which have a fixed temperature of 1.0. 
