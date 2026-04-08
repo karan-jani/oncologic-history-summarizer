@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2023-03-02",
+    "context": "Thoracic surgery note: The patient underwent left upper lobectomy and mediastinal lymph node dissection for left upper lobe lung adenocarcinoma on 2023-03-02. Pathology demonstrated pT2aN1 disease."
+  },
+  {
+    "date": "2023-06-21",
+    "context": "Medical oncology note: The patient completed adjuvant cisplatin and pemetrexed on 2023-06-21 following resection of left upper lobe lung adenocarcinoma."
+  },
+  {
+    "date": "2024-11-18",
+    "context": "Restaging PET/CT and oncology follow-up: There is recurrent metastatic adenocarcinoma with new lesions in the right adrenal gland and L3 vertebral body. MRI brain demonstrates two enhancing cerebellar metastases. Molecular profiling shows EGFR exon 19 deletion. Osimertinib was started on 2024-11-18."
+  },
+  {
+    "date": "2024-12-05",
+    "context": "Radiation oncology note: Stereotactic radiosurgery to two cerebellar metastases was completed on 2024-12-05."
+  },
+  {
+    "date": "2025-02-14",
+    "context": "Follow-up CT chest, abdomen, and pelvis dated 2025-02-14 shows decreased size of the right adrenal metastasis, stable L3 osseous lesion, no new thoracic disease, and expected postoperative changes from prior left upper lobectomy. The patient remains on osimertinib with improved cough and stable weight."
+  }
+]

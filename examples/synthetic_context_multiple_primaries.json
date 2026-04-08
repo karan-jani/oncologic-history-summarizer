@@ -1,0 +1,18 @@
+[
+  {
+    "date": "2021-05-10",
+    "context": "Breast oncology note: The patient has a history of right breast invasive ductal carcinoma treated with lumpectomy on 2021-05-10 followed by adjuvant radiation completed on 2021-08-03. She started anastrozole on 2021-08-15 and remains on therapy."
+  },
+  {
+    "date": "2025-01-09",
+    "context": "Thoracic oncology consultation: A separate primary malignancy is present with right lower lobe lung squamous cell carcinoma diagnosed by bronchoscopy. PET/CT demonstrates metastatic mediastinal adenopathy and a lytic metastasis in the T12 vertebral body. Carboplatin, paclitaxel, and pembrolizumab were initiated on 2025-01-09."
+  },
+  {
+    "date": "2025-02-20",
+    "context": "Radiation oncology note: Palliative radiation to the T12 osseous metastasis was completed on 2025-02-20."
+  },
+  {
+    "date": "2025-04-03",
+    "context": "Restaging imaging and oncology follow-up: The right lower lobe primary mass is mildly decreased in size, mediastinal nodal disease is stable, and the treated T12 metastasis shows increased sclerosis consistent with treatment response. No additional metastatic disease is identified. The patient continues pembrolizumab maintenance. There is no evidence of recurrent right breast malignancy."
+  }
+]
