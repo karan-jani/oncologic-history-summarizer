@@ -39,7 +39,7 @@ If you are using an Azure GPT-4.1 deployment, you can optionally apply the teste
 uv run python cli.py \
   --input examples/mock_notes.json \
   --output output/summary.json \
-  --gpt41-temperature
+  --gpt41
 ```
 
 ## Input Format
